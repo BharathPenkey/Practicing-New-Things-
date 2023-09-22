@@ -1,0 +1,19 @@
+{
+  "name": "practicing-new-things-",
+  "version": "1.0.0",
+  "description": "practicing fullStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathPenkey/Practicing-New-Things-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharathPenkey/Practicing-New-Things-/issues"
+  },
+  "homepage": "https://github.com/BharathPenkey/Practicing-New-Things-#readme"
+}
